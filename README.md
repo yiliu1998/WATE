@@ -135,4 +135,4 @@ The R code is maintained by Yi Liu (Please feel free to reach out yi.liu.biostat
 ## Reference
 Please cite the following paper:
 
-Wang, Y., Liu, Y., & Yang, S. (2024). Rate doubly robust estimation for weighted average treatment effects. Under review. 
+Wang, Y., Liu, Y., & Yang, S. (2025). Rate doubly robust estimation for weighted average treatment effects. Journal of Causal Inference (just-accepted). 
